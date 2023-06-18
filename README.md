@@ -231,8 +231,8 @@ Example Input and Output
 INPUT:
 
 Michael van Gerwen
-Triple<r>
-20<r>
+Triple<br>
+20<br>
 Triple
 19
 Double
@@ -254,7 +254,7 @@ Michael van Gerwen won the leg with 8 shots.
 INPUT:
 Stephen Bunting
 Triple
-20<r>
+20<br>
 Triple
 20
 Triple
