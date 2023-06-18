@@ -1,4 +1,4 @@
-Challenge 1: Oscar Ceremony
+**Challenge 1: Oscar Ceremony**
 
 The United States Film Academy has been annually organizing the prestigious Academy Awards ceremony since 1929. The organizers want to know how much it costs to organize such a ceremony.
 
