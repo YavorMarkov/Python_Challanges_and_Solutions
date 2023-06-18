@@ -340,16 +340,17 @@ In the end, after all customers have finished shopping, one line should be print
 
 All money must be formatted to the second digit after the decimal point.
 
-Input:
-2
-basket
-wreath
-chocolate bunny
-Finish
-wreath
-chocolate bunny
-Finish
-OUTPUT:
-You purchased 3 items for 12.30 leva.
-You purchased 2 items for 8.64 leva.
-Average bill per client is: 10.47 leva.
+Input:<br>
+2<br>
+basket<br>
+wreath<br>
+chocolate bunny<br>
+Finish<br>
+wreath<br>
+chocolate bunny<br>
+Finish<br>
+
+OUTPUT:<br>
+You purchased 3 items for 12.30 leva.<br>
+You purchased 2 items for 8.64 leva.<br>
+Average bill per client is: 10.47 leva.<br>
