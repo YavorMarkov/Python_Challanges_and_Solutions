@@ -127,6 +127,7 @@ INPUT
 France
 28-31
 8
+
 OUTPUT
 Easter trip to France : 320.00 leva.
 
