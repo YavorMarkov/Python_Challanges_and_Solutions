@@ -278,3 +278,28 @@ OUTPUT:
 Stephen Bunting won the leg with 6 shots.
 
 
+INPUT:
+Rob Cross
+Triple
+20
+Triple
+20
+Triple
+20
+Triple
+20
+Double
+20
+Triple
+20
+Double
+5
+Triple
+10
+Double
+6
+Retire
+
+
+OUTPUT:
+Rob Cross retired after 3 unsuccessful shots.
