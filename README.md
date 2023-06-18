@@ -63,9 +63,9 @@ Time is up! To complete the movie you need 8 minutes.
 
 INPUT<br>
 60<br>
-15
-3
-.
+15<br>
+3<br>
+
 
 OUTPUT<br>
 You managed to finish the movie on time! You have 6 minutes left!
