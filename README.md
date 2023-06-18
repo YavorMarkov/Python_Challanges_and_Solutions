@@ -303,3 +303,6 @@ Retire<br>
 
 OUTPUT:<br>
 Rob Cross retired after 3 unsuccessful shots.
+
+
+**Challenge 6: Easter_decorations**
