@@ -231,7 +231,7 @@ Example Input and Output
 INPUT:
 
 Michael van Gerwen
-Triple
+Triple<r>
 20<r>
 Triple
 19
