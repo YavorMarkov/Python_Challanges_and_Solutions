@@ -77,3 +77,55 @@ INPUT<br>
 
 OUTPUT<br>
 You managed to finish the movie on time! You have 6 minutes left!
+
+**Task 3. Easter vacation**
+
+During the Easter holidays, Desi wants to go on a vacation. The table shows the destinations and the price per night based on the dates she has booked the excursion.
+
+Destinations – France , from 21-23 mart, price = 30 lv.
+Destinations – France , from 24-27 mart, price = 35 lv.
+Destinations – France , from 28-31 mart, price = 40 lv.
+
+Destinations – Italy , from 21-23 mart, price = 28 lv.
+Destinations – Italy , from 24-27 mart, price = 32 lv.
+Destinations – Italy , from 28-31 mart, price = 39 lv.
+
+Destinations – Germany , from 21-23 mart, price = 32 lv.
+Destinations – Germany , from 21-23 mart, price = 37 lv.
+Destinations – Germany , from 28-31 mart, price = 43 l
+
+Write a program that calculates the cost of Desi's excursion, knowing the destination she wants to go to, the date she booked the excursion, and the number of nights she will stay in the given country.
+
+Input
+The input is read from the console and consists of three lines:
+• First line - destination - a text with options "France", "Italy", or "Germany"
+• Second line - booked excursion dates - text with options "21-23", "24-27", or "28-31"
+• Third line - number of nights - an integer in the range [1… 100]
+Output
+The output should be printed on the console as a single line:
+"Easter trip to {destination}: {excursion cost} leva."
+The excursion cost should be formatted to the second decimal place.
+Example Input and Output
+
+INPUT
+Germany
+24-27
+5
+OUTOUT
+Easter trip to Germany : 185.00 leva.
+
+INPUT
+Italy
+21-23
+7
+
+OUTPUT
+Easter trip to Italy : 196.00 leva.
+
+INPUT
+France
+28-31
+8
+OUTPUT
+Easter trip to France : 320.00 leva.
+
