@@ -274,7 +274,7 @@ Double<br>
 Single<br>
 1<br>
 
-OUTPUT:
+OUTPUT:<br>
 Stephen Bunting won the leg with 6 shots.
 
 
