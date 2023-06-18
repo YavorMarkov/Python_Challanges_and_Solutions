@@ -1,4 +1,4 @@
-# Task. Oscar ceremony Link to Judge:
+# Task1. Oscar ceremony Link to Judge:
 
 # The United States Film Academy since 1929. annually hands out Academy Awards in a spectacular ceremony. The organizers want to know how much it costs to organize such a ceremony. Write a program that calculates what costs the academy will have to organize the event, knowing how much the rent is for the hall where it will be held.
 
