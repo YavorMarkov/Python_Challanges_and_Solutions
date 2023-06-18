@@ -78,7 +78,7 @@ INPUT<br>
 OUTPUT<br>
 You managed to finish the movie on time! You have 6 minutes left!
 
-**Task 3. Easter vacation**
+**Challenge 3. Easter vacation**
 
 During the Easter holidays, Desi wants to go on a vacation. The table shows the destinations and the price per night based on the dates she has booked the excursion.
 
@@ -132,3 +132,67 @@ France
 OUTPUT:<r>
 Easter trip to France : 320.00 leva.
 
+**Challenge 4: Easter Eggs**
+
+
+
+Easter is approaching, and one of the most exciting things is decorating Easter eggs. The available colors for painting the eggs are:
+• Red
+• Orange
+• Blue
+• Green
+
+Write a program that calculates the number of eggs for each color and determines which color has the most eggs, given the total number of eggs and the color of each egg.
+
+Input:
+The input is read from the console and consists of the following:
+• One line containing the total number of painted eggs (an integer in the range [1 ... 100])
+For each egg, the following is read:
+• The color of the egg - a text with options: "red", "orange", "blue", "green"
+
+Output:
+Print the following lines on the console:
+• "Red eggs: {number of red eggs}"
+• "Orange eggs: {number of orange eggs}"
+• "Blue eggs: {number of blue eggs}"
+• "Green eggs: {number of green eggs}"
+• "Max eggs: {maximum number of eggs for a color} -> {color}"
+
+Example Input and Output:
+
+Input:
+7
+red
+blue
+green
+red
+orange
+blue
+green
+Output:
+Red eggs: 2
+Orange eggs: 1
+Blue eggs: 2
+Green eggs: 2
+Max eggs: 2 -> blue
+
+Input:
+12
+red
+red
+red
+orange
+orange
+blue
+blue
+blue
+blue
+green
+green
+green
+Output:
+Red eggs: 3
+Orange eggs: 2
+Blue eggs: 4
+Green eggs: 3
+Max eggs: 4 -> blue
