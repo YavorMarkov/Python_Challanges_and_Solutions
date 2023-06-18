@@ -198,3 +198,34 @@ Orange eggs: 2
 Blue eggs: 4
 Green eggs: 3
 Max eggs: 4 -> blue
+
+
+**Challenge 5. Darts**
+
+Link to Judge: https://judge.softuni.bg/Contests/Practice/Index/1538#7
+
+Your task is to write a program that calculates whether a player has won a leg in a game of darts. (A leg refers to a single game of darts.)
+
+Initially, the player starts with 301 points. The player throws the dart onto the dartboard, and for each hit, they score a certain number of points. Each field on the dartboard has three sectors: a Single sector, from which the points are taken as is, a Double sector, from which the points are doubled, and a Triple sector, from which the points are tripled.
+
+The points obtained from each throw are subtracted from the initial points until reaching 0.
+
+Note: If a throw results in more points than the remaining points, it is considered unsuccessful, and the player must throw again until they hit points equal to or less than the remaining points. Such a throw is considered successful.
+
+Example: With 100 points remaining, a throw that results in more than 100 points is unsuccessful. With 100 points remaining, a throw that results in 100 points or fewer is successful.
+
+Input:
+The input consists of the following:
+
+The player's name - text
+Then, until the command "Retire" is received, the following two lines are read repeatedly:
+Field - text ("Single", "Double", or "Triple")
+Points - an integer in the range [0… 100]
+Output:
+The game ends when the command "Retire" is entered or when the initial 301 points are reduced to 0. The output should be a single line printed on the console:
+
+If the player has won the leg:
+"{player's name} won the leg with {successful throws} shots."
+If the player has retired from the game:
+"{player's name} retired after {unsuccessful throws} unsuccessful shots."
+Example Input and Output
