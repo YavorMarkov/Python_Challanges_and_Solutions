@@ -340,7 +340,7 @@ In the end, after all customers have finished shopping, one line should be print
 
 All money must be formatted to the second digit after the decimal point.
 
-Input:<br>
+## Example Input:<br>
 2<br>
 basket<br>
 wreath<br>
@@ -350,7 +350,7 @@ wreath<br>
 chocolate bunny<br>
 Finish<br>
 
-OUTPUT:<br>
+## Example Output:<br>
 You purchased 3 items for 12.30 leva.<br>
 You purchased 2 items for 8.64 leva.<br>
 Average bill per client is: 10.47 leva.<br>
