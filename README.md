@@ -65,7 +65,6 @@ Round the remaining time to the nearest whole number.
 
 ## Example Input and Output
 
-Input:
 
 INPUT<br>
 120<br>
