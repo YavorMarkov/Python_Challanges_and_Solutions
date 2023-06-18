@@ -58,8 +58,8 @@ INPUT<br>
 10<br>
 11<br>
 
-OUTPUT
-Time is up! To complete the movie you need 8 minutes.
+OUTPUT<br>
+Time is up! To complete the movie you need 8 minutes.<br>
 
 INPUT<br>
 60<br>
