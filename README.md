@@ -22,4 +22,5 @@ Input:
 
 Output:
 1052.50
+
 In this example, the rent for the hall is 500. The cost of the statuettes is 350 (30% less than the rent). The cost of catering is 297.50 (15% less than the statuette cost), and the cost of sound is 148.75 (half of the catering cost). The total cost of organizing the ceremony is 1296.25, which is formatted to two decimal places as 1052.50.
