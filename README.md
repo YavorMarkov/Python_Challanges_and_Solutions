@@ -251,4 +251,5 @@ Double
 20
 
 OUTPUT:
-Stephen Bunting won the leg with 6 shots.
+Michael van Gerwen won the leg with 8 shots..
+
