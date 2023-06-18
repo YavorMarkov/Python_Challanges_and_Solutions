@@ -202,7 +202,7 @@ Max eggs: 4 -> blue
 
 **Challenge 5. Darts**
 
-Link to Judge: https://judge.softuni.bg/Contests/Practice/Index/1538#7
+Link to Judge: 
 
 Your task is to write a program that calculates whether a player has won a leg in a game of darts. (A leg refers to a single game of darts.)
 
