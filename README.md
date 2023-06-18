@@ -35,47 +35,36 @@ INPUT
 
 3 lines are read from the console:
 
-1. Snapshot time - an integer in the range [0… 1440]
-
-2. Number of scenes - an integer in the range [5… 25]
-
-3. Scene duration - an integer in the range [20… 90]
+Snapshot time - an integer in the range [0… 1440]<br>
+Number of scenes - an integer in the range [5… 25]<br>
+Scene duration - an integer in the range [20… 90]
 
 OUTPUT
 
 To print one line to the console:
 
-· If you run out of film time:
-
+· If you run out of film time:<br>
 "You managed to finish the movie on time! You have {remaining time} minutes left!"
 
-· If the time is NOT enough for YOU:
-
+· If the time is NOT enough for YOU:<br>
 "Time is up! To complete the movie you need minutes."
 
 Round the remaining time to the nearest whole number.
 
-
 Example input and output
 
 INPUT
-
 120
-
-10
-
+10<
 11
 
 OUTPUT
-
 Time is up! To complete the movie you need 8 minutes.
 
 INPUT
 60
-
 15
-
 3
 
-OUTPUT
+OUTPUT<br>
 You managed to finish the movie on time! You have 6 minutes left!
