@@ -281,7 +281,7 @@ Stephen Bunting won the leg with 6 shots.
 INPUT:
 Rob Cross
 Triple
-20
+20<r>
 Triple
 20
 Triple
