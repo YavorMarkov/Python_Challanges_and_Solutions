@@ -105,7 +105,8 @@ Output
 The output should be printed on the console as a single line:
 "Easter trip to {destination}: {excursion cost} leva."
 The excursion cost should be formatted to the second decimal place.
-Example Input and Output
+
+Example Input and Output:<p>
 
 INPUT:
 Germany
