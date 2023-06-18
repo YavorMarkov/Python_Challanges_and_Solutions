@@ -234,7 +234,7 @@ INPUT:
 
 Michael van Gerwen
 Triple
-20
+20<r>
 Triple
 19
 Double
