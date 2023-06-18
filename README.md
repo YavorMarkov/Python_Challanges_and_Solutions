@@ -169,6 +169,7 @@ red
 orange
 blue
 green
+
 Output:
 Red eggs: 2
 Orange eggs: 1
@@ -190,6 +191,7 @@ blue
 green
 green
 green
+
 Output:
 Red eggs: 3
 Orange eggs: 2
