@@ -151,35 +151,39 @@ France
 **output:**
 Easter trip to France : 320.00 leva.
 
-**Challenge 4: Easter Eggs**
+# Challenge 4: Easter Eggs
 
+## Description
 
+Easter is approaching, and one of the most exciting things is decorating Easter eggs. The available colors for painting the eggs are: 
+- Red 
+- Orange 
+- Blue 
+- Green
 
-Easter is approaching, and one of the most exciting things is decorating Easter eggs. The available colors for painting the eggs are:
-• Red
-• Orange
-• Blue
-• Green
+The task is to write a program that calculates the number of eggs for each color and determines which color has the most eggs, given the total number of eggs and the color of each egg.
 
-Write a program that calculates the number of eggs for each color and determines which color has the most eggs, given the total number of eggs and the color of each egg.
+## Input 
 
-Input:
-The input is read from the console and consists of the following:
-• One line containing the total number of painted eggs (an integer in the range [1 ... 100])
-For each egg, the following is read:
-• The color of the egg - a text with options: "red", "orange", "blue", "green"
+The input is read from the console and consists of the following: 
+- One line containing the total number of painted eggs (an integer in the range [1 ... 100])
+- For each egg, the following is read: The color of the egg - a text with options: "red", "orange", "blue", "green"
 
-Output:
-Print the following lines on the console:
-• "Red eggs: {number of red eggs}"
-• "Orange eggs: {number of orange eggs}"
-• "Blue eggs: {number of blue eggs}"
-• "Green eggs: {number of green eggs}"
-• "Max eggs: {maximum number of eggs for a color} -> {color}"
+## Output 
 
-Example Input and Output:
+Print the following lines on the console: 
+- "Red eggs: {number of red eggs}" 
+- "Orange eggs: {number of orange eggs}" 
+- "Blue eggs: {number of blue eggs}" 
+- "Green eggs: {number of green eggs}" 
+- "Max eggs: {maximum number of eggs for a color} -> {color}"
 
-Input:
+## Examples 
+
+### Example 1
+
+**Input:**
+
 7
 red
 blue
@@ -189,14 +193,18 @@ orange
 blue
 green
 
-Output:
+**Output:**
 Red eggs: 2
 Orange eggs: 1
 Blue eggs: 2
 Green eggs: 2
 Max eggs: 2 -> blue
 
-Input:
+
+### Example 2
+
+**Input**
+
 12
 red
 red
@@ -211,7 +219,7 @@ green
 green
 green
 
-Output:
+**Output:**
 Red eggs: 3
 Orange eggs: 2
 Blue eggs: 4
