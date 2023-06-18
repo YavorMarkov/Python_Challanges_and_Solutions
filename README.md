@@ -200,9 +200,7 @@ Green eggs: 3
 Max eggs: 4 -> blue
 
 
-**Challenge 5. Darts**
-
-Link to Judge: 
+**Challenge 5. Darts** 
 
 Your task is to write a program that calculates whether a player has won a leg in a game of darts. (A leg refers to a single game of darts.)
 
