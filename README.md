@@ -111,7 +111,8 @@ INPUT
 Germany
 24-27
 5
-OUTOUT
+
+OUTPUT
 Easter trip to Germany : 185.00 leva.
 
 INPUT
