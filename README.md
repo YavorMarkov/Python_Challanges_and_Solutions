@@ -61,10 +61,11 @@ INPUT
 OUTPUT
 Time is up! To complete the movie you need 8 minutes.
 
-INPUT
-60
+INPUT<br>
+60<br>
 15
 3
+.
 
 OUTPUT<br>
 You managed to finish the movie on time! You have 6 minutes left!
