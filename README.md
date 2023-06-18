@@ -359,3 +359,19 @@ Finish<br>
 You purchased 3 items for 12.30 leva.<br>
 You purchased 2 items for 8.64 leva.<br>
 Average bill per client is: 10.47 leva.<br>
+
+## Example Input:<br>
+1<br>
+basket<br>
+wreath<br>
+chocolate bunny<br>
+wreath<br>
+basket<br>
+chocolate bunny<br>
+Finish<br>
+
+## Example Output:<br>
+You purchased 6 items for 19.68 leva.<br>
+Average bill per client is: 19.68 leva.<br>
+
+
