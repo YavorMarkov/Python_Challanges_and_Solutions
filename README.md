@@ -306,3 +306,36 @@ Rob Cross retired after 3 unsuccessful shots.
 
 
 **Challenge 6: Easter_decorations**
+
+# Task 6. Easter Decorations
+
+For the Easter holidays, a store starts selling three types of Easter decorations - egg baskets (basket), Easter wreaths (wreath), and chocolate bunnies (chocolate bunny). Your task is to write a program that calculates what bill each customer of the store has to pay. 
+
+Every customer who purchased an even number of products will receive a 20% discount on the final price. After all customers have finished shopping, the program should print the average amount of money each person has spent.
+
+The prices of the products are:
+- Egg basket (basket) - 1.50 BGN
+- Easter wreath (wreath) - 3.80 BGN
+- Chocolate bunny (chocolate bunny) - 7 BGN
+
+## Input
+
+From the console initially, one line is read:
+
+- Number of customers in the store - an integer [1… 100]
+
+Then for each customer on a new line until the command "Finish" is read:
+
+- The purchase that the customer has chosen - text ("basket", "wreath" or "chocolate bunny")
+
+## Output
+
+When the command "Finish" is received, one line should be printed:
+
+- "You purchased {number of purchases} items for {final price} leva."
+
+In the end, after all customers have finished shopping, one line should be printed:
+
+- "Average bill per client is: {the arithmetic average of the money each client has spent} leva."
+
+All money must be formatted to the second digit after the decimal point.
