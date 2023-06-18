@@ -233,20 +233,20 @@ INPUT:
 Michael van Gerwen<br>
 Triple<br>
 20<br>
-Triple
-19
-Double
-10
-Single
-3
-Single
-1
-Triple
-20
-Triple
-20
-Double
-20
+Triple<br>
+19<br>
+Double<br>
+10<br>
+Single<br>
+3<br>
+Single<br>
+1<br>
+Triple<br>
+20<br>
+Triple<br>
+20<br>
+Double<br>
+20<br>
 
 OUTPUT:
 Michael van Gerwen won the leg with 8 shots.
@@ -255,24 +255,24 @@ INPUT:
 Stephen Bunting<br>
 Triple<br>
 20<br>
-Triple
-20
-Triple
-20
-Triple
-20
-Triple
-20
-Triple
-20
-Double
-7
-Single
-12
-Double
-1
-Single
-1
+Triple<br>
+20<br>
+Triple<br>
+20<br>
+Triple<br>
+20<br>
+Triple<br>
+20<br>
+Triple<br>
+20<br>
+Double<br>
+7<br>
+Single<br>
+12<br>
+Double<br>
+1<br>
+Single<br>
+1<br>
 
 OUTPUT:
 Stephen Bunting won the leg with 6 shots.
@@ -282,23 +282,23 @@ INPUT:
 Rob Cross<br>
 Triple<br>
 20<br>
-Triple
-20
-Triple
-20
-Triple
-20
-Double
-20
-Triple
-20
-Double
-5
-Triple
-10
-Double
-6
-Retire
+Triple<br>
+20<br>
+Triple<br>
+20<br>
+Triple<br>
+20<br>
+Double<br>
+20<br>
+Triple<br>
+20<br>
+Double<br>
+5<br>
+Triple<br>
+10<br>
+Double<br>
+6<br>
+Retire<br>
 
 
 OUTPUT:
