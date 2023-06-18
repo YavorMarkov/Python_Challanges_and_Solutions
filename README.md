@@ -251,5 +251,31 @@ Double
 20
 
 OUTPUT:
-Michael van Gerwen won the leg with 8 shots..
+Michael van Gerwen won the leg with 8 shots.
+
+INPUT:
+Stephen Bunting
+Triple
+20<r>
+Triple
+20
+Triple
+20
+Triple
+20
+Triple
+20
+Triple
+20
+Double
+7
+Single
+12
+Double
+1
+Single
+1
+
+OUTPUT:
+Stephen Bunting won the leg with 6 shots.
 
