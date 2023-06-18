@@ -228,7 +228,7 @@ If the player has retired from the game:
 "{player's name} retired after {unsuccessful throws} unsuccessful shots."
 Example Input and Output
 
-INPUT:
+INPUT:<br>
 
 Michael van Gerwen<br>
 Triple<br>
@@ -248,10 +248,10 @@ Triple<br>
 Double<br>
 20<br>
 
-OUTPUT:
+OUTPUT:<br>
 Michael van Gerwen won the leg with 8 shots.
 
-INPUT:
+INPUT:<br>
 Stephen Bunting<br>
 Triple<br>
 20<br>
@@ -278,7 +278,7 @@ OUTPUT:
 Stephen Bunting won the leg with 6 shots.
 
 
-INPUT:
+INPUT:<br>
 Rob Cross<br>
 Triple<br>
 20<br>
@@ -301,5 +301,5 @@ Double<br>
 Retire<br>
 
 
-OUTPUT:
+OUTPUT:<br>
 Rob Cross retired after 3 unsuccessful shots.
