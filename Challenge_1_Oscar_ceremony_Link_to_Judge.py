@@ -1,4 +1,4 @@
-# Challenge1. Oscar ceremony Link to Judge:
+# Challenge1. Oscar ceremony 
 
 # The United States Film Academy since 1929. annually hands out Academy Awards in a spectacular ceremony. The organizers want to know how much it costs to organize such a ceremony. Write a program that calculates what costs the academy will have to organize the event, knowing how much the rent is for the hall where it will be held.
 
@@ -12,7 +12,7 @@
 
 # 1 line is read from the console:
 
-# · Rent for the hall - an integer in the interval [0 … 999]
+# · Rent for the hall - an integer in the interal [0 … 999]
 
 # OUTPUT
 # To print on the console what the costs of organizing the ceremony will be. Amount to be formatted to the second decimal place.
