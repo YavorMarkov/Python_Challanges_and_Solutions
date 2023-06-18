@@ -42,31 +42,30 @@ In this example, the rent for the hall is 500. The cost of the statuettes is 350
 
 
 
-**Chalange 2. Shooting day**
+# Challenge 2: Shooting Day
 
 You are the director of the movie "Programming is Fun" with a fixed time for shooting. You are asked to write a program that will tell you if you will have time to shoot the film on the day of shooting. The shooting day begins with field preparation, which is 15 percent of shooting time! A film has a certain number of scenes that are shot in a certain amount of time.
 
-INPUT
+## Input
 
-3 lines are read from the console:
+Three lines are read from the console:
 
-Snapshot time - an integer in the range [0… 1440]<br>
-Number of scenes - an integer in the range [5… 25]<br>
-Scene duration - an integer in the range [20… 90]
+- Snapshot time - an integer in the range [0… 1440]
+- Number of scenes - an integer in the range [5… 25]
+- Scene duration - an integer in the range [20… 90]
 
-OUTPUT
+## Output
 
-To print one line to the console:
+Print one line to the console:
 
-· If you run out of film time:<br>
-"You managed to finish the movie on time! You have {remaining time} minutes left!"
-
-· If the time is NOT enough for YOU:<br>
-"Time is up! To complete the movie you need minutes."
+- If you finish the movie in time: "You managed to finish the movie on time! You have {remaining time} minutes left!"
+- If the time is NOT enough: "Time is up! To complete the movie you need {additional required time} minutes."
 
 Round the remaining time to the nearest whole number.
 
-Example input and output
+## Example Input and Output
+
+Input:
 
 INPUT<br>
 120<br>
