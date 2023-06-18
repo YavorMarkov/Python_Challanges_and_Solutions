@@ -1,23 +1,5 @@
 # Challenge1. Oscar ceremony 
 
-# The United States Film Academy since 1929. annually hands out Academy Awards in a spectacular ceremony. The organizers want to know how much it costs to organize such a ceremony. Write a program that calculates what costs the academy will have to organize the event, knowing how much the rent is for the hall where it will be held.
-
-# • Statuettes – their price is 30% less than the hall rent
-
-# • Catering - its price is 15% less than that of the statuettes
-
-# • Sound - its price is 1 / 2 of the price for catering
-
-# INPUT
-
-# 1 line is read from the console:
-
-# · Rent for the hall - an integer in the interal [0 … 999]
-
-# OUTPUT
-# To print on the console what the costs of organizing the ceremony will be. Amount to be formatted to the second decimal place.
-
-
 # We start by defining a function. A function is a reusable piece of code that performs a specific task.
 # Our function is named 'calculate_costs' and it takes one parameter: 'rent'.
 def calculate_costs(rent):
