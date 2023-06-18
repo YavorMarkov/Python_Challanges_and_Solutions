@@ -229,3 +229,26 @@ If the player has won the leg:
 If the player has retired from the game:
 "{player's name} retired after {unsuccessful throws} unsuccessful shots."
 Example Input and Output
+
+INPUT:
+
+Michael van Gerwen
+Triple
+20
+Triple
+19
+Double
+10
+Single
+3
+Single
+1
+Triple
+20
+Triple
+20
+Double
+20
+
+OUTPUT:
+Stephen Bunting won the leg with 6 shots.
