@@ -107,27 +107,27 @@ The output should be printed on the console as a single line:
 The excursion cost should be formatted to the second decimal place.
 Example Input and Output
 
-INPUT
+INPUT:
 Germany
 24-27
 5
 
-OUTPUT
+OUTPUT:
 Easter trip to Germany : 185.00 leva.
 
-INPUT
+INPUT:
 Italy
 21-23
 7
 
-OUTPUT
+OUTPUT:
 Easter trip to Italy : 196.00 leva.
 
-INPUT
+INPUT:
 France
 28-31
 8
 
-OUTPUT
+OUTPUT:<r>
 Easter trip to France : 320.00 leva.
 
