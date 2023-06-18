@@ -1,9 +1,6 @@
 # Chalange 2. Shooting day
 
 
-
-
-
 # We're importing the math module because we need to use the math.ceil() function later in the code.
 import math
 
