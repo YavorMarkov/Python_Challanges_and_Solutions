@@ -1,3 +1,11 @@
+
+[![Project Status: Under Construction](https://img.shields.io/badge/Project%20Status-Under%20Construction-yellow)](https://github.com/YavorMarkov/Python_Challanges_and_Solutions)
+
+
+<i><sub>**NOTE**: This project is currently under construction. Please check back later for updates.</i></sub>
+
+
+
 **Challenge 1: Oscar Ceremony**
 
 The United States Film Academy has been annually organizing the prestigious Academy Awards ceremony since 1929. The organizers want to know how much it costs to organize such a ceremony.
