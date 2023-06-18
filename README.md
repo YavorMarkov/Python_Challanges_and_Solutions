@@ -230,7 +230,7 @@ Example Input and Output
 
 INPUT:
 
-Michael van Gerwen
+Michael van Gerwen<br>
 Triple<br>
 20<br>
 Triple
