@@ -252,8 +252,8 @@ OUTPUT:
 Michael van Gerwen won the leg with 8 shots.
 
 INPUT:
-Stephen Bunting
-Triple
+Stephen Bunting<br>
+Triple<br>
 20<br>
 Triple
 20
@@ -279,9 +279,9 @@ Stephen Bunting won the leg with 6 shots.
 
 
 INPUT:
-Rob Cross
-Triple
-20<r>
+Rob Cross<br>
+Triple<br>
+20<br>
 Triple
 20
 Triple
