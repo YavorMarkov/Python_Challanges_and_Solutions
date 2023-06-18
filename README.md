@@ -53,10 +53,10 @@ Round the remaining time to the nearest whole number.
 
 Example input and output
 
-INPUT
-120
-10<
-11
+INPUT<br>
+120<br>
+10<br>
+11<br>
 
 OUTPUT
 Time is up! To complete the movie you need 8 minutes.
