@@ -42,5 +42,5 @@ Detailed gameplay instructions and rules can be found [here](link to instruction
 
 | | |
 |---|---|
-| Input | <pre>2<br>Solmyr 85 120<br>Kyrre 99 50<br>Heal - Solmyr - 10<br>Recharge - Solmyr - 50<br>TakeDamage - Kyrre - 66 - Orc<br>CastSpell - Kyrre - 15 - ViewEarth<br>End</pre> |
-| Output | <pre>Solmyr healed for 10 HP!<br>Solmyr recharged for 50 MP!<br>Kyrre was hit for 66 HP by Orc and now has 33 HP left!<br>Kyrre has successfully cast ViewEarth and now has 35 MP!<br>Solmyr<br>&nbsp;&nbsp;HP: 95<br>&nbsp;&nbsp;MP: 170<br>Kyrre<br>&nbsp;&nbsp;HP: 33<br>&nbsp;&nbsp;MP: 35</pre> |
+| <span style="color: blue;">Input</span> | <pre>2<br>Solmyr 85 120<br>Kyrre 99 50<br>Heal - Solmyr - 10<br>Recharge - Solmyr - 50<br>TakeDamage - Kyrre - 66 - Orc<br>CastSpell - Kyrre - 15 - ViewEarth<br>End</pre> |
+| <span style="color: green;">Output</span> | <pre>Solmyr healed for 10 HP!<br>Solmyr recharged for 50 MP!<br>Kyrre was hit for 66 HP by Orc and now has 33 HP left!<br>Kyrre has successfully cast ViewEarth and now has 35 MP!<br>Solmyr<br>&nbsp;&nbsp;HP: 95<br>&nbsp;&nbsp;MP: 170<br>Kyrre<br>&nbsp;&nbsp;HP: 33<br>&nbsp;&nbsp;MP: 35</pre> |
