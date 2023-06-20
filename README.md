@@ -45,9 +45,8 @@ Detailed gameplay instructions and rules can be found [here](link to instruction
 | <span style="color: blue;">Input</span> | <pre>2<br>Solmyr 85 120<br>Kyrre 99 50<br>Heal - Solmyr - 10<br>Recharge - Solmyr - 50<br>TakeDamage - Kyrre - 66 - Orc<br>CastSpell - Kyrre - 15 - ViewEarth<br>End</pre> |
 | <span style="color: green;">Output</span> | <pre>Solmyr healed for 10 HP!<br>Solmyr recharged for 50 MP!<br>Kyrre was hit for 66 HP by Orc and now has 33 HP left!<br>Kyrre has successfully cast ViewEarth and now has 35 MP!<br>Solmyr<br>&nbsp;&nbsp;HP: 95<br>&nbsp;&nbsp;MP: 170<br>Kyrre<br>&nbsp;&nbsp;HP: 33<br>&nbsp;&nbsp;MP: 35</pre> |
 
-| | |
+|  |  |
 |---|---|
-| **Input** | <pre><code>4<br>Adela 90 150<br>SirMullich 70 40<br>Ivor 1 111<br>Tyris 94 61<br>Heal - SirMullich - 50<br>Recharge - Adela - 100<br>CastSpell - Tyris - 1000 - Fireball<br>TakeDamage - Tyris - 99 - Fireball<br>TakeDamage - Ivor - 3 - Mosquito<br>End</code></pre> |
-| **Output** | <pre><code>SirMullich healed for 30 HP!<br>Adela recharged for 50 MP!<br>Tyris does not have enough MP to cast Fireball!<br>Tyris has been killed by Fireball!<br>Ivor has been killed by Mosquito!<br>SirMullich<br>  HP: 100<br>  MP: 40<br>Adela<br>  HP: 90<br>  MP: 200</code></pre> |
-
+| **Input**  | <pre>4<br>Adela 90 150<br>SirMullich 70 40<br>Ivor 1 111<br>Tyris 94 61<br>Heal - SirMullich - 50<br>Recharge - Adela - 100<br>CastSpell - Tyris - 1000 - Fireball<br>TakeDamage - Tyris - 99 - Fireball<br>TakeDamage - Ivor - 3 - Mosquito<br>End</pre> |
+| **Output**  | <pre>SirMullich healed for 30 HP!<br>Adela recharged for 50 MP!<br>Tyris does not have enough MP to cast Fireball!<br>Tyris has been killed by Fireball!<br>Ivor has been killed by Mosquito!<br>SirMullich<br>&nbsp;&nbsp;HP: 100<br>&nbsp;&nbsp;MP: 40<br>Adela<br>&nbsp;&nbsp;HP: 90<br>&nbsp;&nbsp;MP: 200</pre>  |
 
