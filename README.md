@@ -2,43 +2,73 @@
 
 
 <i><sub>**NOTE**: This project is currently under construction. Please check back later for updates.</i></sub>
-
 # Heroes of Code and Logic VII
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Gameplay](#gameplay)
+
+1. [Overview](#overview)
+2. [Instructions](#instructions)
+    1. [Hero Selection](#hero-selection)
+    2. [Gameplay](#gameplay)
 3. [Input](#input)
 4. [Output](#output)
 5. [Constraints](#constraints)
+6. [Examples](#examples)
+
+## Overview <a name="overview"></a>
 
 
-<a name="introduction"></a>
-## Introduction
-This is a project for the Heroes of Code and Logic VII game. The game is the most recent update on the best MMORPG of all time.
+You got your hands on the most recent update on the best MMORPG of all time – Heroes of Code and Logic. You want to play it all day long! So cancel all other arrangements and create your party!
 
-<a name="gameplay"></a>
-## Gameplay
-Detailed gameplay instructions and rules can be found [here](link to instructions file or section)
+## Instructions <a name="instructions"></a>
 
-<a name="input"></a>
-## Input
-* On the first line of the standard input, you will receive an integer n
-* On the following n lines, the heroes themselves will follow with their hit points and mana points separated by a space in the following format
-* You will be receiving different commands, each on a new line, separated by " – ", until the "End" command is given
+### Hero Selection <a name="hero-selection"></a>
 
-<a name="output"></a>
-## Output
-* Print all members of your party who are still alive, sorted by their HP in descending order, then by their name in ascending order, in the following format (their HP/MP need to be indented 2 spaces): "{hero name}\n  HP: {current HP}\n  MP: {current MP}"
+On the first line of the standard input, you will receive an integer `n` – the number of heroes that you can choose for your party. On the next `n` lines, the heroes themselves will follow with their hit points and mana points separated by a single space in the following format: 
 
-<a name="constraints"></a>
-## Constraints
-* The starting HP/MP of the heroes will be valid, 32-bit integers will never be negative or exceed the respective limits.
-* The HP/MP amounts in the commands will never be negative.
-* The hero names in the commands will always be valid members of your party. No need to check that explicitly.
+{hero name} {HP} {MP}
 
 
-## Examples
+- `HP` stands for hit points and `MP` for mana points
+- a hero can have a maximum of 100 HP and 200 MP
+
+### Gameplay <a name="gameplay"></a>
+
+After you have successfully picked your heroes, you can start playing the game. You will be receiving different commands, each on a new line, separated by " – ", until the "End" command is given. 
+
+There are several actions that the heroes can perform:
+
+1. **CastSpell – {hero name} – {MP needed} – {spell name}**
+2. **TakeDamage – {hero name} – {damage} – {attacker}**
+3. **Recharge – {hero name} – {amount}**
+4. **Heal – {hero name} – {amount}**
+
+Each command has a specific effect and associated print message, as explained in the full problem statement.
+
+## Input <a name="input"></a>
+
+- On the first line of the standard input, you will receive an integer `n`
+- On the following `n` lines, the heroes themselves will follow with their hit points and mana points separated by a space in the following format
+- You will be receiving different commands, each on a new line, separated by " – ", until the "End" command is given
+
+## Output <a name="output"></a>
+
+- Print all members of your party who are still alive, sorted by their HP in descending order, then by their name in ascending order, in the following format (their HP/MP need to be indented 2 spaces):
+
+{hero name}
+HP: {current HP}
+MP: {current MP}
+
+
+## Constraints <a name="constraints"></a>
+
+- The starting HP/MP of the heroes will be valid, 32-bit integers will never be negative or exceed the respective limits.
+- The HP/MP amounts in the commands will never be negative.
+- The hero names in the commands will always be valid members of your party. No need to check that explicitly.
+
+## Examples <a name="examples"></a>
+
+
 
 | | |
 |---|---|
