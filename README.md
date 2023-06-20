@@ -4,6 +4,7 @@
  
 
 <i><sub>**NOTE**: This project is currently under construction. Please check back later for updates.</i></sub>
+<!-- README content here
 # Heroes of Code and Logic VII
 
 ## Table of Contents
@@ -86,5 +87,5 @@ MP: {current MP}
 | **Comments** |
 |---|
 | <pre>Heal – SirMullich healed for 30 HP due to the HP max limit.<br>Recharge – Adela recharged for 50 MP due to the MP max limit.<br>CastSpell – Tyris does not have enough MP to cast the spell.<br>TakeDamage – Tyris's HP is reduced by 99, thus becoming -5, which means he is dead.<br>TakeDamage – Ivor's HP is now -2, so he is dead too.<br>After the "End" command, we print the remaining living heroes, sorted by their HP in reverse order.</pre> |
-
+ -->
 </div>
