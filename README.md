@@ -49,4 +49,4 @@ Detailed gameplay instructions and rules can be found [here](link to instruction
 |---|---|
 | Input | <pre>```<br>4<br>Adela 90 150<br>SirMullich 70 40<br>Ivor 1 111<br>Tyris 94 61<br>Heal - SirMullich - 50<br>Recharge - Adela - 100<br>CastSpell - Tyris - 1000 - Fireball<br>TakeDamage - Tyris - 99 - Fireball<br>TakeDamage - Ivor - 3 - Mosquito<br>End<br>```</pre> |
 | Output | <pre>```<br>SirMullich healed for 30 HP!<br>Adela recharged for 50 MP!<br>Tyris does not have enough MP to cast Fireball!<br>Tyris has been killed by Fireball!<br>Ivor has been killed by Mosquito!<br>SirMullich<br>&nbsp;&nbsp;HP: 100<br>&nbsp;&nbsp;MP: 40<br>Adela<br>&nbsp;&nbsp;HP: 90<br>&nbsp;&nbsp;MP: 200<br>```</pre> |
-
+ 
